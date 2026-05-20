@@ -179,6 +179,7 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [],
         "settings": {
           "promo_text": "<p>Free delivery </p>",
           "social_icons_header": false,
